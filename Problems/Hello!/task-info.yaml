@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4709
+status: Solved
+feedback:
+  message: "<html>Passed. \nHello, Olusha!\nCongratulations! It is your first Java\
+    \ program that really works.<br/><br/>Continue on <a href=\"https://hyperskill.org/learn/step/4709\"\
+    >JetBrains Academy</a></html>"
+  time: Mon, 14 Sep 2020 12:00:33 UTC
+record: -1
